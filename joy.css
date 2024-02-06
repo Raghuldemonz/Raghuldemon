@@ -1,0 +1,59 @@
+.rag{
+    display: inline-block;
+}
+.rag a{
+    text-decoration: none;
+    margin-top:-30px;
+font-weight: bold;
+margin-left: 50px;
+    font-size: 20px;
+    color:hsl(0, 0%, 100%);
+}
+.rag ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: -10px;
+    word-spacing:5px;
+  
+    
+}
+.rag h1{
+color: white;
+}
+.box1{
+    margin-top: 300px;
+    color: aliceblue;
+}
+.joy{
+    background-color: gray;
+    width:850px;
+    height: 270px;      
+}
+.joy img{
+    width:200px;
+    height: 200px; 
+    margin-top: -250px; 
+    margin-left: 649px;
+}
+.box1 li{
+    width:493px;
+    margin-left: 855px;
+}
+
+
+
+
+
+
+
+
+  
+    
+
+  
+
+
+
+
+
+
